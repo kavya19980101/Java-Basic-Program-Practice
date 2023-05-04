@@ -8,5 +8,11 @@ public class DoWhileDemo1 {
                     System.out.println(i);
                 i++;}
                 while(i<=10);
+        int j =1;
+        do{
+            System.out.println(j);
+            j++;}
+        while(j<=10);
+
     }
 }
