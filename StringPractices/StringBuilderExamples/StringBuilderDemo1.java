@@ -12,6 +12,8 @@ public class StringBuilderDemo1 {
         System.out.println(str1.toString());
         str1.reverse();
         System.out.println(str1);
+
+
     }
 
 }
