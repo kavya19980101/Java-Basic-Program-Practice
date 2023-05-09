@@ -10,5 +10,6 @@ public class StringReversewithBuilders {
         str1= new StringBuilder(sc.nextLine());
         str1.reverse();
                 System.out.println("The Reverse String is "+str1);
+        System.out.println("The length of String is "+str1.length());
     }
 }
