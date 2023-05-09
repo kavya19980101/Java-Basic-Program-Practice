@@ -9,7 +9,7 @@ public class StringBuilderDemo1 {
         System.out.println(str1.toString().equals(str1.toString()));
         System.out.println(str1.toString().contentEquals(str2.toString()));
         str1.append(" Kavya");
-        System.out.println(str1);
+        System.out.println(str1.toString());
         str1.reverse();
         System.out.println(str1);
     }
