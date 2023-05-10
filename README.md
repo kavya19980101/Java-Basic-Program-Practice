@@ -1,3 +1,3 @@
 # JavaBasicProgramPractice
-JavaBasicProgramPractice
+Java Basic Program Practice
 
