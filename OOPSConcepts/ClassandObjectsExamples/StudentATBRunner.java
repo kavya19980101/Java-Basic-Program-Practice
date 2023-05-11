@@ -16,5 +16,8 @@ public class StudentATBRunner {
         System.out.println(student3.equals(student1)); //True
         System.out.println(student3.equals(student2));//False
         System.out.println(student3.equals(student2));//False
+
+        //Object will create different storage area in heap memory for each individual object
+        //Above Examples shows the storage understanding of objects in heap memory
     }
 }
