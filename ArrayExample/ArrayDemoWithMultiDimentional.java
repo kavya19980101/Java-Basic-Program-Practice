@@ -18,8 +18,8 @@ public class ArrayDemoWithMultiDimentional {
         System.out.println(r2size);
         int r3size=arr1[0].length;
         System.out.println(r3size);
-        for(int i=0;i<arr1.length;i++) {
-            System.out.println(arr1[i]);
+        for(int i=0;i<rows;i++) {
+            System.out.println(arr1[i][i]);
         }
 
     }
