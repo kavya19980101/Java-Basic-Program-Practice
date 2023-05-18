@@ -1,4 +1,4 @@
-#Java Basic Program Practice
+#Java Basic Program Practices
 
 Java Basic Program Practice
 
