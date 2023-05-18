@@ -1,4 +1,4 @@
-package Polymorphism.Methodoverriding;
+package OOPSConcepts.Polymorphism.Methodoverriding;
 
 public class Mainclass {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package InheritanceExample;
+package OOPSConcepts.Inheritance;
 
 public class Programming {
     int version;

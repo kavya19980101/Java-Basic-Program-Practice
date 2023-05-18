@@ -1,4 +1,4 @@
-package InheritanceExample;
+package OOPSConcepts.Inheritance;
 
 public class Java extends Programming{
 

@@ -1,4 +1,4 @@
-package InheritanceExample.MultilevelInheritance;
+package OOPSConcepts.Inheritance.MultilevelInheritance;
 
 public class Tesla extends Car {
     Tesla(int i) {

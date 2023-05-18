@@ -1,4 +1,4 @@
-package Encapsulation;
+package OOPSConcepts.Encapsulation;
 
 public class Student {
     private String Studentname;

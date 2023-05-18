@@ -1,4 +1,4 @@
-package Encapsulation;
+package OOPSConcepts.Encapsulation;
 
 public class BookRunner {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package InheritanceExample.MultilevelInheritance;
+package OOPSConcepts.Inheritance.MultilevelInheritance;
 
 public class Mainclass {
     public static void main(String[] args) {

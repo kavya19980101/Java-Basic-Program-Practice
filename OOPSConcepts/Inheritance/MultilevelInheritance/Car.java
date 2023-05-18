@@ -1,4 +1,4 @@
-package InheritanceExample.MultilevelInheritance;
+package OOPSConcepts.Inheritance.MultilevelInheritance;
 
 public class Car extends Vehicle{
 

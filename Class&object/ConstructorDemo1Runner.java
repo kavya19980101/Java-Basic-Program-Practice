@@ -1,7 +1,5 @@
 package OOPSConcepts.ClassandObjectsExamples;
 
-import java.util.concurrent.Callable;
-
 public class ConstructorDemo1Runner {
     public static void main(String[] args) {
 System.out.println("Enter the details of Student1");
