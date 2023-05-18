@@ -8,7 +8,7 @@ public class Driver {
     public String ShowdriverDescription(Vehicle v) {
         return "Driver{" +
                 "name='" + name + '\'' +
-                ", " + v.Show() +
+                "," + v.Show() +
                 '}';
     }
 

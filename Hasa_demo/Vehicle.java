@@ -19,7 +19,7 @@ public class Vehicle {
     }
 
 
-    public void getid()
+   public void getid()
     {
         this.id=id;
     }
@@ -35,7 +35,7 @@ public class Vehicle {
     }
 
 
-        public String get_Model(String model) {
+        public String set_Model(String model) {
         return model;
     }
 }
