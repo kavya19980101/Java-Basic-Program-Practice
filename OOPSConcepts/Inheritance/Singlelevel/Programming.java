@@ -1,4 +1,4 @@
-package OOPSConcepts.Inheritance;
+package OOPSConcepts.Inheritance.Singlelevel;
 
 public class Programming {
     int version;

@@ -1,4 +1,6 @@
-package OOPSConcepts.Inheritance;
+package OOPSConcepts.Inheritance.Singlelevel;
+
+import OOPSConcepts.Inheritance.Singlelevel.Java;
 
 public class Mainclass {
     public static void main(String[] args) {

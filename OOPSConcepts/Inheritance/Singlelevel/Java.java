@@ -1,6 +1,6 @@
-package OOPSConcepts.Inheritance;
+package OOPSConcepts.Inheritance.Singlelevel;
 
-public class Java extends Programming{
+public class Java extends Programming {
 
         String NewFeature;
         Java(int version, String author, String NewFeature)
