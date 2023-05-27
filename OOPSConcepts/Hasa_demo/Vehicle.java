@@ -1,4 +1,4 @@
-package Hasa_demo;
+package OOPSConcepts.Hasa_demo;
 
 public class Vehicle {
     private int id;

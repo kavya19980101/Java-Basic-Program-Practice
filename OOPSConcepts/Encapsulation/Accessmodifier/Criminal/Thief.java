@@ -1,6 +1,6 @@
-package Packagesunderstanding.Criminal;
+package OOPSConcepts.Encapsulation.Accessmodifier.Criminal;
 
-import Packagesunderstanding.Police.Cop;
+import OOPSConcepts.Encapsulation.Accessmodifier.Police.Cop;
 
 public class Thief {
     public static void main(String[] args) {
